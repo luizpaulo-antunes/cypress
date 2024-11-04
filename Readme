@@ -1,5 +1,4 @@
-
-# Projeto de Automação de Testes com Cypress INBEV
+**Projeto de Automação de Testes com Cypress INBEV**
 
 Este projeto visa automatizar os testes de interface e ponta a ponta da aplicação web serverest utilizando o Cypress.
 
@@ -18,7 +17,7 @@ O Cypress é uma ferramenta de teste de ponta a ponta que facilita a escrita e e
 
 ## Instalação
 
-1. Clone o repositório: `git clone <URL do repositório>`
+1. Clone o repositório: https://github.com/luizpaulo-antunes/cypress
 2. Instale as dependências: `npm install`
 
 ## Execução dos Testes
@@ -28,5 +27,3 @@ O Cypress é uma ferramenta de teste de ponta a ponta que facilita a escrita e e
 
 * **cypress/e2e:** Contém os arquivos de teste.
 * **cypress/support:** Contém arquivos de suporte e comandos customizados.
-
-
