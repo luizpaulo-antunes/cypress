@@ -1,0 +1,32 @@
+
+# Projeto de Automação de Testes com Cypress INBEV
+
+Este projeto visa automatizar os testes de interface e ponta a ponta da aplicação web serverest utilizando o Cypress.
+
+## Descrição
+
+O Cypress é uma ferramenta de teste de ponta a ponta que facilita a escrita e execução de testes automatizados em aplicações web. Este projeto utiliza JavaScript para escrever os testes e o Cypress como framework de execução.
+
+## Funcionalidades
+
+* Testes de ponta a ponta (E2E)
+
+## Tecnologias
+
+* Cypress
+* JavaScript
+
+## Instalação
+
+1. Clone o repositório: `git clone <URL do repositório>`
+2. Instale as dependências: `npm install`
+
+## Execução dos Testes
+
+* Para executar os testes no modo headless: `npx cypress run`
+* Para abrir a interface gráfica do Cypress: `npx cypress open`
+
+* **cypress/e2e:** Contém os arquivos de teste.
+* **cypress/support:** Contém arquivos de suporte e comandos customizados.
+
+
